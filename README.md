@@ -57,3 +57,7 @@ Amacım, temel bir derin öğrenme modeliyle bilgisayarla görme (computer visio
 Bu proje benim için güzel bir öğrenme deneyimi oldu.  
 Model şu an **mükemmel sonuçlar vermese de**, sürecin bana kazandırdığı deneyim çok değerliydi.  
 Bir sonraki adımda transfer learning yöntemlerini denemeyi planlıyorum.  
+
+
+##KAGGLE
+https://www.kaggle.com/code/halilayyldrm/healty-unhealty-cnn-model
